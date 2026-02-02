@@ -1,0 +1,9 @@
+npm create vite@latest to install the react.
+1. node module contains the all the modules related to the react.
+2.Git Ignore -. It is basically to prvents the llogin crediantilss.Asi file which will ingnore all the files when you upoad in the github.
+3->public ->images and videos.
+4-> Jab ham javascript ki wajah se html ka use karte he to hum usse jsx kahte he .
+5->Reacts work on the Component Programming.
+// divide you ui screen into the sub parts. Reacts work on the componets either functional component or class components.
+// component name always satert with the capital letter.
+// return statement are display karwayenge hum.

@@ -1,0 +1,13 @@
+1.First of all we have learned about the difference between let,var,const.
+
+I.Let has the block code but const and var donot have.
+II.Mutability->
+
+2.Hoistic Property.
+3.Read About the scope.
+4.console.log(5=='5);//true
+4.console.log(5==='5');//false
+// Means in js the single = is for the assigning process also.
+5. Learned different types of object.
+6.Function
+7.// if you are using the for in you will iterate in indexes and if you are using for OF then you are iterating in the indexes.
