@@ -10,8 +10,8 @@ export default function EventToDo()
 
     function handleSubmit(e) {
         e.preventDefault()  // To prevent page reloading
-        const input = e.target.task.value;
-        const inputValue = input.trim();
+        const  input = e.target.task.value;
+        const  inputValue = input.trim();
         if(inputValue === ""){
             alert("Task cannot be empty.")
             return;
