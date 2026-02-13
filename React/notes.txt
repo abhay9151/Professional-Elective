@@ -7,3 +7,25 @@ npm create vite@latest to install the react.
 // divide you ui screen into the sub parts. Reacts work on the componets either functional component or class components.
 // component name always satert with the capital letter.
 // return statement are display karwayenge hum.
+
+Day2 
+// we have learned how to make a header in components section in which.we have applied the header section in app.jsx andthen we have run the (npm run dev).
+  
+Day3
+Today I have learned about the props.
+Props (short for properties) are read-only inputs that are passed from a parent component to a child component.
+Why are Props Used?
+1.Pass Data Between Components
+2 Make Components Reusable
+3. Make Components Reusable
+
+
+// How to Push the code in the github->
+git status 
+git add
+git commit
+git commit-m "Commment"
+git status 
+git push -u origin main.
+ if you have add only one file or one folder than we will use 
+ git add space app.txt.
