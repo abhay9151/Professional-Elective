@@ -2,7 +2,8 @@ import './App.css'
 // import Header from './Components/header.jsx'
 // import Footer from './Components/footer.jsx'
 // import Registration from './Components/Registration.jsx'
-import EventTodo from './EventTodo';
+// import EventTodo from './EventTodo';
+import Search from './Search.jsx';
 // import Counter from './counter';
 function App() {
   // const y=[2026,2021,2025,2026];
@@ -10,8 +11,9 @@ function App() {
   return(
     <>
     <div>
-    <EventTodo/>
+    {/* <EventTodo/> */}
     {/* <Counter/> */}
+    <Search/>
     </div>
     </>
     
