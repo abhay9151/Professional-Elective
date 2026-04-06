@@ -1,4 +1,4 @@
-import {useState} from 'react';
+import {useState, useEffect} from 'react';
 export default function Counter(){
     const[count,setCount]=useState(0);
     // var count=0;
@@ -12,6 +12,12 @@ export default function Counter(){
         setCount(count=>count-1);
         console.log(count);
     }
+    useEffect(()=>{
+        console.log("Component Mounted");
+    },[]);  
+    useEffect(()=>{
+        console.log("Count Updated");
+    },[count]);
     return (
         <>
         <h1>Counter App</h1>
